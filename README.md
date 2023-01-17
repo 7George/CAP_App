@@ -19,7 +19,7 @@ File or Folder | Purpose
 - (in VS Code simply choose _**Terminal** > Run Task > cds watch_)
 - Start adding content, for example, a [db/schema.cds](db/schema.cds).
 
-Tutorial 
+# Tutorial 
 https://developers.sap.com/group.cap-kyma-deploy-app.html
 
 ## Learn More
